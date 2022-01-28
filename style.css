@@ -7,7 +7,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 4px;
   background-color: rgb(182, 182, 219);
-  padding: 4px;
+  padding: 8px;
   border-radius: 5px;
   max-width: 360px;
   font-family: 'Tahoma';
@@ -27,7 +27,7 @@ form {
   max-width: 100%;
 }
 input {
-  width: 100%;
+  width: 90%;
   height: 60px;
   border: none;
   font-size: 30px;
